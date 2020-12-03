@@ -1,1 +1,14 @@
-https://www.notion.so/1-57a72ee94b6446a2884a838c87888709
+# 운영체제란?
+
+- **정의** : 컴퓨터와 하드웨어 바로 위에 설치하여, **사용자 및 다른 소프트웨어와 하드웨어를 연결**하는 소프트웨어 계층
+- **목적**
+
+    1) 컴퓨터 시스템을 **편리하게 사용할 수 있는 환경 제공**
+
+    2) 컴퓨터 시스템의 **자원을 효율적으로 관리 → 효율성, 형평성**
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d0ee893-5aae-4d96-84a7-19170f841a38/.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d0ee893-5aae-4d96-84a7-19170f841a38/.jpg)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3913e1d9-ddbb-47f3-9586-cbccd4be0a36/.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3913e1d9-ddbb-47f3-9586-cbccd4be0a36/.jpg)
+
+**컴퓨터 시스템 구조** → 운영체제는 **메모리**에 있음
